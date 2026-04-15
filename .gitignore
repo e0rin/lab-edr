@@ -1,0 +1,10 @@
+# Binarios compilados
+*.out
+*.o
+*.a
+*.so
+*.exe
+
+# Ejecutables
+edr
+build/
